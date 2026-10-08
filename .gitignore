@@ -1,0 +1,7 @@
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+*.crc
+.ipynb_checkpoints/
+pipeline_run_report.html
